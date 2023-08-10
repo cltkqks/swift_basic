@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1. Let_Var'/>
+        <page name='2-1. Data Types'/>
+        <page name='2-2. Any_AnyObject_nil'/>
+        <page name='3. Collection Types'/>
+        <page name='4. Function'/>
+        <page name='5. Conditional'/>
+        <page name='6. Loop'/>
+        <page name='7-2. Optional Unwrapping'/>
+        <page name='7-1. Optional'/>
+        <page name='8. Struct'/>
+        <page name='9. Class'/>
+        <page name='10. Enum'/>
+        <page name='11. Value Reference'/>
+        <page name='12. Closures'/>
+        <page name='13. Property'/>
+        <page name='14. Inheritance'/>
+        <page name='15. Init_Deinit'/>
+        <page name='16. Optional Chaining'/>
+        <page name='17. Type Casting'/>
+        <page name='18. Assert Guard'/>
+        <page name='19. Protocol'/>
+        <page name='20. Extension'/>
+        <page name='21. Error Handling'/>
+        <page name='22. Higher Order Function'/>
+    </pages>
+</playground>
